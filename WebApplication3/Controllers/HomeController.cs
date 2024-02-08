@@ -18,11 +18,19 @@ namespace WebApplication3.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Sobre()
         {
             return View();
         }
         public IActionResult Jogadores()
+        {
+            return View();
+        }
+        public IActionResult Noticias()
+        {
+            return View();
+        }
+        public IActionResult Peneira()
         {
             return View();
         }
